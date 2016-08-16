@@ -1,3 +1,7 @@
+.grandad {
+  float: left;
+}
+
 .intro img {
   display: block;
   margin: auto;
@@ -18,4 +22,14 @@
   width: 50%;
   background-color: #558ABB;
   margin: auto;
+}
+
+.column {
+  width: 30%;
+  float:left;
+}
+
+
+.special {
+  color: blue;
 }
