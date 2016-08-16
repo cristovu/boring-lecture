@@ -1,0 +1,21 @@
+img.intro {
+  display: block;
+  margin: auto;
+  width: 40%;
+}
+
+h2.intro {
+
+  text-shadow: 5px 5px #558ABB;
+  text-align: center;
+  font-size: 50px
+}
+
+p.intro {
+  
+  font-weight: bold;
+  font-style: italic;
+  width: 50%;
+  background-color: #558ABB;
+  margin: auto;
+}
