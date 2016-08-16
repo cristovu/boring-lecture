@@ -1,18 +1,18 @@
-img.intro {
+.intro img {
   display: block;
   margin: auto;
   width: 40%;
 }
 
-h2.intro {
+.intro h2 {
 
   text-shadow: 5px 5px #558ABB;
   text-align: center;
   font-size: 50px
 }
 
-p.intro {
-  
+.intro p {
+
   font-weight: bold;
   font-style: italic;
   width: 50%;
